@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ptwikiwords"]
+	path = ptwikiwords
+	url = https://github.com/dfalbel/ptwikiwords
+	shallow = true
+	registered = true
+[submodule "rslp"]
+	path = rslp
+	url = https://github.com/dfalbel/rslp
+	shallow = true
+	registered = true

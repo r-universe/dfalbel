@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ptwikiwords",
+    "oncran": true
+  },
+  {
+    "package": "rslp",
+    "oncran": true
+  }
+]
