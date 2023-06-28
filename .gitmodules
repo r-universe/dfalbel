@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cloudml"]
 	path = cloudml
 	url = https://github.com/cran/cloudml
-	shallow = true
-	registered = true
 [submodule "madgrad"]
 	path = madgrad
 	url = https://github.com/cran/madgrad
-	shallow = true
-	registered = true
 [submodule "ptwikiwords"]
 	path = ptwikiwords
 	url = https://github.com/dfalbel/ptwikiwords
-	shallow = true
-	registered = true
 [submodule "rslp"]
 	path = rslp
 	url = https://github.com/dfalbel/rslp
-	shallow = true
-	registered = true
 [submodule "tfdeploy"]
 	path = tfdeploy
 	url = https://github.com/cran/tfdeploy
-	shallow = true
-	registered = true
 [submodule "torchvisionlib"]
 	path = torchvisionlib
 	url = https://github.com/cran/torchvisionlib
-	shallow = true
-	registered = true
