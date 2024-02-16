@@ -17,6 +17,3 @@
 [submodule "tfdeploy"]
 	path = tfdeploy
 	url = https://github.com/cran/tfdeploy
-[submodule "torchvisionlib"]
-	path = torchvisionlib
-	url = https://github.com/cran/torchvisionlib
