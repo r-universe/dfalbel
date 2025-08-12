@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cloudml"]
-	path = cloudml
-	url = https://github.com/cran/cloudml
 [submodule "madgrad"]
 	path = madgrad
 	url = https://github.com/cran/madgrad
